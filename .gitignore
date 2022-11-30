@@ -19,5 +19,4 @@ tweets.json.gz
 *.list.gz
 
 # Any slideshows or HTML output created is ignored
-*.html
 .DS_Store
